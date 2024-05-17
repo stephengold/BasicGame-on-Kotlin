@@ -23,8 +23,7 @@ dependencies {
     //implementation(libs.jme3.effects)
     //implementation(libs.jme3.networking)
     //implementation(libs.jme3.niftygui)
-    implementation(libs.jme3.terrain)
-    runtimeOnly(libs.jme3.testdata)
+    //implementation(libs.jme3.terrain)
     //runtimeOnly(libs.jme3.awt.dialogs) // only for JMonkeyEngine v3.6 or later!
 
     // select one version of LWJGL (from mavenCentral or mavenLocal)
