@@ -40,4 +40,4 @@ sim-math = "com.simsilica:sim-math:1.6.0"
 skyControl = "com.github.stephengold:SkyControl:1.0.5"
 
 [plugins]
-jvm = { id = "org.jetbrains.kotlin.jvm", version = "1.9.22" }
+jvm = { id = "org.jetbrains.kotlin.jvm", version = "2.0.0" }
