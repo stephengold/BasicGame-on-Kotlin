@@ -39,5 +39,7 @@ minie = "com.github.stephengold:Minie:8.1.0"
 sim-math = "com.simsilica:sim-math:1.6.0"
 skyControl = "com.github.stephengold:SkyControl:1.0.5"
 
+[bundles]
+
 [plugins]
 jvm = { id = "org.jetbrains.kotlin.jvm", version = "2.0.0" }
