@@ -1,7 +1,7 @@
 // Gradle script to build the BasicGame-on-Kotlin project
 
 plugins {
-    alias(libs.plugins.jvm)
+    alias(libs.plugins.kotlin.jvm)
     application // to build JVM applications
 }
 
