@@ -3,7 +3,7 @@
 jMonkeyEngine's prototypical `BasicGame` as a Gradle/Kotlin project
 
 If you want to get started using Kotlin with jMonkeyEngine's v3.6.1 SDK (or with
-NetBeans IDE 20) and don't know where to start, use this project as a template.
+NetBeans 22 IDE) and don't know where to start, use this project as a template.
 
 ### Clone the BasicGame-on-Kotlin repository using Git:
 
