@@ -1,3 +1,5 @@
+/.kotlin/
+
 # Ignore Gradle's project-specific cache directory:
 /.gradle/
 
