@@ -1,4 +1,4 @@
-// Gradle script to build the BasicGame-on-Kotlin project
+// Gradle script to build and run the BasicGame-on-Kotlin project
 
 plugins {
     alias(libs.plugins.kotlin.jvm)
@@ -47,7 +47,7 @@ dependencies {
     //runtimeOnly(variantOf(libs.jolt.jni.windows64){ classifier("ReleaseSp") })
 
     // BasicGame doesn't use jme3-jogg nor jme3-plugins
-    //  -- they are included solely to avoid warnings from AssetConfig.
+    //  -- they are included solely to avoid runtime warnings from AssetConfig:
     runtimeOnly(libs.jme3.jogg)
     runtimeOnly(libs.jme3.plugins)
 
