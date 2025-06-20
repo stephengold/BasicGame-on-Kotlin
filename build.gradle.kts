@@ -64,6 +64,7 @@ dependencies {
     //implementation(libs.monkeywrench)
     //implementation(libs.sim.math)
     //implementation(libs.skyControl)
+    //implementation(libs.wes)
     //runtimeOnly(libs.jme3.testdata)
 }
 
