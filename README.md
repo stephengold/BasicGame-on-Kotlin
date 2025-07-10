@@ -2,8 +2,8 @@
 
 jMonkeyEngine's prototypical `BasicGame` as a Gradle/Kotlin project
 
-If you want to get started using Kotlin with jMonkeyEngine's v3.7.0 SDK (or with
-the NetBeans 24 IDE) and don't know where to start, use this project as a template.
+If you want to get started using Kotlin with jMonkeyEngine's v3.8.0 SDK (or with
+the NetBeans 25 IDE) and don't know where to start, use this project as a template.
 
 ### Clone the BasicGame-on-Kotlin repository using Git:
 
@@ -35,6 +35,6 @@ the NetBeans 24 IDE) and don't know where to start, use this project as a templa
  1. In the "Projects" window of the IDE,
     right-click on the "BasicGame-on-Kotlin" project to select it.
  2. Select "Run" or "Run Project".
- 3. To close the "jMonkeyEngine 3.7.0-stable" window, press the Esc key.
+ 3. To close the "jMonkeyEngine 3.8.0-stable" window, press the Esc key.
 
 Assets your game requires can be added to src/main/resources folder.
