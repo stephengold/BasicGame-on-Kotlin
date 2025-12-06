@@ -53,6 +53,7 @@ dependencies {
     //implementation(libs.heart)
     //implementation(libs.jmePower)
     //implementation(libs.monkeywrench)
+    //implementation(libs.particlemonkey)
     //implementation(libs.sim.math)
     //implementation(libs.skyControl)
     //implementation(libs.wes)
