@@ -56,6 +56,7 @@ dependencies {
     //implementation(libs.particlemonkey)
     //implementation(libs.sim.math)
     //implementation(libs.skyControl)
+    //implementation(libs.tamarin)
     //implementation(libs.wes)
     //runtimeOnly(libs.jme3.testdata)
 }
