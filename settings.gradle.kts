@@ -7,7 +7,7 @@ dependencyResolutionManagement {
         //mavenLocal() // to find libraries installed locally
         //flatDir { dirs("lib") } // to find libraries in the project's "lib" directory
         mavenCentral() // to find libraries released to the Maven Central repository
-        maven { url = uri("https://jitpack.io") } // to find the Blocks library
+        maven { url = uri("https://jitpack.io") } // to find the Blocks and Galago2D libraries
         maven {
             name = "Central Portal Snapshots"
             url = uri("https://central.sonatype.com/repository/maven-snapshots/")
