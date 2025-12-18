@@ -57,4 +57,4 @@ wes = "com.github.stephengold:Wes:0.8.2"
 
 [plugins]
 
-kotlin-jvm = { id = "org.jetbrains.kotlin.jvm", version = "2.2.21" }
+kotlin-jvm = { id = "org.jetbrains.kotlin.jvm", version = "2.3.0" }
