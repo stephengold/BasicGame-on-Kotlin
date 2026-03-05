@@ -9,7 +9,7 @@ application {
     mainClass = "mygame.MainKt"
 }
 
-configurations.all {
+configurations.configureEach {
     resolutionStrategy.cacheChangingModulesFor(0, "seconds") // to disable caching of snapshots
 }
 
